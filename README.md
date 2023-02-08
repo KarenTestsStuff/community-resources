@@ -9,3 +9,5 @@
   - Helpful guide to contributing to the Ministry of Testing community -> [📋Contribution Checklist](https://d2h1nbmw1jjnl.cloudfront.net/contribution/WaystoContributetoMoT.pdf)
   - Current opportunities highlighted that you can contribute to -> [💪Call for Contributions](https://www.ministryoftesting.com/contribute)
 
+- [Testing Titbits](https://testingtitbits.com/) with Rahul Parwal
+  - The A-Z of how to contribute to communities -> [🔤Mind Map](https://testingtitbits.com/a-z-of-how-to-contribute-to-communities/)
