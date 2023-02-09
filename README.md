@@ -15,41 +15,84 @@
 
   - The A-Z of how to contribute to communities -> [🔤Mind Map](https://testingtitbits.com/a-z-of-how-to-contribute-to-communities/)
 
-- [Test Guild](https://testguild.com/) with James Bach
+## Contents
 
-  - [📚Test Guild Library](https://testguild.com/library/)
-  - [📚Test Guild Library - How to Contribute](https://testguild.com/library/how-to-contribute/)
-  - [📚Test Guild Library - How to Contribute - How to Contribute to the Test Guild Library](https://testguild.com/library/how-to-contribute/how-to-contribute-to-the-test-guild-library/)
+- [Software](#software)
+- [Books](#books)
+- [Training](#training-includes-developer-training-for-automation-testers)
+- [Blogs](#blogs)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [YouTube Channels](#youtube-channels)
 
-- [TestBash](https://testbash.com/) with James Bach
 
-  - [📚TestBash Library](https://testbash.com/library/)
-  - [📚TestBash Library - How to Contribute](https://testbash.com/library/how-to-contribute/)
-  - [📚TestBash Library - How to Contribute - How to Contribute to the TestBash Library](https://testbash.com/library/how-to-contribute/how-to-contribute-to-the-testbash-library/)
+## Software
 
-- [TestTalks](https://testtalks.com/) with James Bach
+- [Selenium](https://www.selenium.dev/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
 
-  - [📚TestTalks Library](https://testtalks.com/library/)
-  - [📚TestTalks Library - How to Contribute](https://testtalks.com/library/how-to-contribute/)
-  - [📚TestTalks Library - How to Contribute - How to Contribute to the TestTalks Library](https://testtalks.com/library/how-to-contribute/how-to-contribute-to-the-testtalks-library/)
+- [Appium](https://appium.io/) - Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.
 
-- [Testers.io](https://testers.io/) with James Bach
+- [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser.
 
-  - [📚Testers.io Library](https://testers.io/library/)
-  - [📚Testers.io Library - How to Contribute](https://testers.io/library/how-to-contribute/)
-  - [📚Testers.io Library - How to Contribute - How to Contribute to the Testers.io Library](https://testers.io/library/how-to-contribute/how-to-contribute-to-the-testers-io-library/)
+- [Katalon Studio](https://www.katalon.com/) - Katalon Studio is a free and open-source automated testing tool for web, API, mobile, and desktop applications. It is a complete solution for end-to-end testing with built-in keyword-driven and data-driven testing frameworks.
 
-- [Testers Unite](https://testersunite.com/) with James Bach
-  - [📚Testers Unite Library](https://testersunite.com/library/)
-  - [📚Testers Unite Library - How to Contribute](https://testersunite.com/library/how-to-contribute/)
-  - [📚Testers Unite Library - How to Contribute - How to Contribute to the Testers Unite Library](https://testersunite.com/library/how-to-contribute/how-to-contribute-to-the-testers-unite-library/)
-- [TestHuddle](https://testhuddle.com/) with James Bach
+- [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a commercial test automation tool for desktop, web, and mobile applications. It is a complete solution for end-to-end testing with built-in keyword-driven and data-driven testing frameworks.
 
-  - [📚TestHuddle Library](https://testhuddle.com/library/)
-  - [📚TestHuddle Library - How to Contribute](https://testhuddle.com/library/how-to-contribute/)
-  - [📚TestHuddle Library - How to Contribute - How to Contribute to the TestHuddle Library](https://testhuddle.com/library/how-to-contribute/how-to-contribute-to-the-testhuddle-library/)
+- [Sauce Labs](https://saucelabs.com/) - Sauce Labs is a cloud-based platform that enables developers and quality assurance teams to test their web and mobile applications on hundreds of different browser and operating system combinations.
 
-- [Testers' Guild](https://testersguild.com/) with James Bach
-  - [📚Testers' Guild Library](https://testersguild.com/library/)
-  - [📚Testers' Guild Library - How to Contribute](https://testersguild.com/library/how-to-contribute/)
-  - [📚Testers' Guild Library - How to Contribute - How to Contribute to the Testers' Guild Library](https://testersguild.com/library/how-to-contribute/how-to-contribute-to-the-testers-guild-library/)
+- [BrowserStack](https://www.browserstack.com/) - BrowserStack is a cloud-based cross-browser testing tool that enables developers to test their websites and web applications on different browsers and operating systems.
+
+- [Sikuli](https://sikulix.com/) - Sikuli is a visual automation tool that allows you to automate any desktop application using images. It is a free and open-source tool that can be used for both web and desktop applications.
+
+- [Robot Framework](https://robotframework.org/) - Robot Framework is a generic open source automation framework for acceptance testing and acceptance test-driven development (ATDD). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases.
+
+- [JMeter](https://jmeter.apache.org/) - JMeter is an open source testing tool for performance testing. It is 100% pure Java application for load and performance testing. It was originally designed for testing Web Applications but has since expanded to other test functions.
+
+- [SoapUI](https://www.soapui.org/) - SoapUI is a cross-platform functional testing tool for API testing. It is a commercial tool that can be used for both web and desktop applications.
+
+- [Postman](https://www.postman.com/) - Postman is a collaboration platform for API development. It is a commercial tool that can be used for both web and desktop applications.
+
+
+## Books
+
+- [The Software Test Engineer's Handbook](https://www.amazon.com/Software-Test-Engineers-Handbook-2nd/dp/0321534461) - This book is a comprehensive guide to software testing. It covers the entire software testing process, from planning and design to execution and maintenance. It also includes a chapter on test automation.
+
+- [The Art of Software Testing](https://www.amazon.com/Art-Software-Testing-2nd/dp/047012867X) - This book is a comprehensive guide to software testing. It covers the entire software testing process, from planning and design to execution and maintenance. It also includes a chapter on test automation.
+
+
+## Training (Includes Developer Training for Automation Testers)
+
+- [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-webdriver-with-java-basics-to-advanced/) - This course is a comprehensive guide to Selenium WebDriver with Java. It covers the entire Selenium WebDriver process, from planning and design to execution and maintenance. It also includes a chapter on test automation.
+
+## Blogs
+- [James Bach](http://www.satisfice.com/blog/)
+- [Michael Bolton](http://www.developsense.com/blog/)
+- [Janet Gregory](http://janetgregory.ca/blog/)
+- [Nikita Sobolev](https://sobolevn.me/)
+- [Softwaretester Blog](https://www.softwaretester.blog/)
+- [Automation Panda](https://automationpanda.com/)
+
+
+## Newsletters
+
+
+## Podcasts
+
+
+## YouTube Channels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
