@@ -11,3 +11,6 @@
 
 - [Testing Titbits](https://testingtitbits.com/) with Rahul Parwal
   - The A-Z of how to contribute to communities -> [🔤Mind Map](https://testingtitbits.com/a-z-of-how-to-contribute-to-communities/)
+ 
+- AWESOME PEOPLE TO FOLLOW - in no particular order...
+  - list off amazing people I learn from someday
